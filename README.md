@@ -1,5 +1,5 @@
-[Access reactions](https://github.com/DeividLeal/dvdflix-clone.git)
+[Página inicial](https://deividleal.github.io/dvdflix-clone/)
 
-# Prints Web
+### Prints Web
 
-![alt tag](http://deividleal.github.io/dvdflix-clone/img/screen.png)
+![alt tag](https://deividleal.github.io/dvdflix-clone/img/screen.png)
