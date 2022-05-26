@@ -2,4 +2,4 @@
 
 # Prints Web
 
-![alt tag](http://deividcaldas.github.io/dvdflix-clone/img/screen.png)
+![alt tag](http://deividleal.github.io/dvdflix-clone/img/screen.png)

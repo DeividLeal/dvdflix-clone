@@ -46,7 +46,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('/img/doutor-estranho-multiverso-loucura_jmqu.jpeg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('https://deividleal.github.io/dvdflix-clone/img/doutor-estranho-multiverso-loucura_jmqu.jpeg');
 
     height: 400px;
     background-size: cover;
